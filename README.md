@@ -4,10 +4,10 @@
 **Meu nome é Kelvin Henrique** 
 
 
-- Sou criativo
-- Organizado
-- 
-- 
-- 
+- Estou estudando no Alura
+- Sou organizado
+- Estou aprendendo a linguagem inglesa
+  
+ 
   
   
